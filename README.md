@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vishnu Anand</h1>
+<h1 align="center">Hi, this is vishnu</h1>
 
-<hr>
-
-<h2>🧠 About Me:</h2>
-
-<ul>
-  <li>🎓 3rd Year Engineering Student</li>
-  <li>🤖 AI/ML Enthusiast & NLP Learner</li>
-  <li>🚀 Upcoming Summer Intern at Dell Technologies</li>
-  <li>💡 Exploring Generative AI, LLMs, and Backend Development</li>
-  <li>📚 Solving DSA problems and building AI-powered applications</li>
-</ul>
-
-<br>
+<a href="https://news-portfolio-delta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <h2>🌐 Socials:</h2>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vishnu-anand-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -56,54 +46,8 @@
 
 <br>
 
-<h2>🚀 Featured Projects:</h2>
 
-### 🧠 Akshar
-Multilingual tokenizer project focused on Hindi-English mixed text processing.
 
-### 💪 AI Fitness Coach
-AI-powered personalized fitness trainer using Gemini API.
 
-### 🌿 Sukoon
-Emotional support AI system with conversational assistance.
 
-### 🎬 Netflix Clone
-Frontend Netflix-inspired streaming platform UI.
-
-### 🛣️ FCN Road Segmentation
-Semantic segmentation project using Fully Convolutional Networks.
-
-<br>
-
-<h2>📊 GitHub Stats:</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishnurockyedwards&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnurockyedwards&theme=tokyonight"/>
-
-</p>
-
-<br>
-
-<h2>📈 Most Used Languages:</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnurockyedwards&layout=compact&theme=tokyonight"/>
-</p>
-
-<br>
-
-<h2>🎯 Current Focus:</h2>
-
-<ul>
-  <li>🧠 Generative AI & LLMs</li>
-  <li>🌍 Multilingual NLP</li>
-  <li>⚡ Backend Development using Python</li>
-  <li>📚 Data Structures & Algorithms</li>
-</ul>
-
-<br>
-
-<h3 align="center">⭐ Building projects, learning continuously, and growing as an AI Engineer 🚀</h3>
+<h3 align="center">building project and drinking coffe ☕</h3>
