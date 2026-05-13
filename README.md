@@ -50,4 +50,4 @@
 
 
 
-<h3 align="center">building project and drinking coffe ☕</h3>
+<h3 align="center">build project 🔁 drink coffe ☕</h3>
